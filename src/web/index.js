@@ -1,4 +1,4 @@
-import 'mapbox-gl/dist/mapbox-gl.css';
+//import 'mapbox-gl/dist/mapbox-gl.css';
 
 import MapboxModule from './MapboxModule';
 import Camera from './components/Camera';
